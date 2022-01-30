@@ -24,5 +24,7 @@ public class Runner {
         System.out.println(ogrenciler.get(0));
 
         ogrenciler.add(2, "Öğrenci-10");
+
+        System.out.println("UYGULAMA KATAPILDI....");
     }
 }
